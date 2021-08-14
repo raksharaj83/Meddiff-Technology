@@ -1,5 +1,4 @@
-''' function to check string is
-palindrome or not'''
+''' Write a function that checks if a given word is a palindrome. Character case should be ignored.'''
 def isPalindrome(str):
     my_str = str.casefold()
 
